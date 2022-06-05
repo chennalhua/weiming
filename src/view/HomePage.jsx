@@ -33,12 +33,12 @@ const HomePage = () => {
                             return (
                                 <>
                                     <li className={`col-7 col-md-3 product-item ${item.tag ? 'tag' : ''}`} key={index}>
-                                        <img src={require(`../assets/images/product/${item.name}.JPG`)} className='img-fluid' width='300px' alt={item.name} />
+                                        <img src={require(`../assets/images/product/${item.name}.jpg`)} className='img-fluid' width='300px' alt={item.name} />
                                         <div className='mt-2'>
                                             <h5 className='text-center fw-bolder py-2'>{item.name}</h5>
-                                            <div className='text-start'>
+                                            <div className='text-start d-flex justify-content-between align-items-center py-2'>
                                                 <p>{item.quantity}</p>
-                                                <p className='fw-bolder text-primary'>$ {item.price} 元</p>
+                                                <p className='fw-bolder text-primary fs-5'>$ {item.price} 元</p>
                                             </div>
                                         </div>
                                     </li>
@@ -153,7 +153,7 @@ const HomePage = () => {
             <div className='p-3 mt-2 bg-secondary text-center'>
                 <h4 className='fw-bolder text-center text-brown mb-3'>價目表</h4>
                 <img src={require('../assets/images/price-table.jpg')} className='img-fluid' alt='價目表' />
-                <p className='text-center mt-3'>歡迎下載儲存照片~~</p>
+                <p className='text-center mt-3'>歡迎長壓儲存照片~~</p>
             </div>
             <Footer />
         </>
