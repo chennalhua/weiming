@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weiming/static/css/main.575a37c4.css",
-    "main.js": "/weiming/static/js/main.4adc0044.js",
+    "main.js": "/weiming/static/js/main.63f6bfb1.js",
     "static/js/787.c9605bfe.chunk.js": "/weiming/static/js/787.c9605bfe.chunk.js",
     "static/media/banner.jpg": "/weiming/static/media/banner.2b98b9068701e60a2ec4.jpg",
     "static/media/剝皮辣椒大餛飩.jpg": "/weiming/static/media/剝皮辣椒大餛飩.8b6728f2ba9fb007e232.jpg",
@@ -12,11 +12,11 @@
     "static/media/logo.jpg": "/weiming/static/media/logo.65797512991e3dcff5e3.jpg",
     "index.html": "/weiming/index.html",
     "main.575a37c4.css.map": "/weiming/static/css/main.575a37c4.css.map",
-    "main.4adc0044.js.map": "/weiming/static/js/main.4adc0044.js.map",
+    "main.63f6bfb1.js.map": "/weiming/static/js/main.63f6bfb1.js.map",
     "787.c9605bfe.chunk.js.map": "/weiming/static/js/787.c9605bfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.575a37c4.css",
-    "static/js/main.4adc0044.js"
+    "static/js/main.63f6bfb1.js"
   ]
 }
